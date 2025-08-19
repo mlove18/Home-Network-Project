@@ -4,7 +4,7 @@ This project demonstrates a **home network simulation** using Cisco Packet Trace
 The design includes a mix of **wired and wireless devices** connected to a home wireless router.
 
 ## Project Contents
-- **Documentation/** → # Device Configurations
+- **Documentation/** → 
 
 ## Wireless Router (HomeRouter-PT-AC)
 - **IP Address:** 192.168.0.1
